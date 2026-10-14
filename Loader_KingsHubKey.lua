@@ -22,7 +22,7 @@ local ScriptName = "KingsHub"
 local LastUpdated = "10-08-2026"
 -- Change these keys before release (only admins should know them)
 local ROLLBACK_ADMIN_KEYS = {
-    ["KingsHub_Admin_2026"] = true,
+    ["Novocaine, Thiagxjzu, RNCRAZY"] = true,
 }
 local RollbackUnlocked = false
 local pendingRollbackKey = ""
