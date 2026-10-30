@@ -12,7 +12,7 @@ task.wait(0.3)
 
 local Players = game:GetService("Players")
 local TeleportService = game:GetService("TeleportService")
-local ReplicatedStorageÑL = game:GetService("ReplicatedStorage")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local LocalPlayer = Players.LocalPlayer
 while not LocalPlayer do
@@ -29,7 +29,7 @@ local Window = Rayfield:CreateWindow({
     LoadingSubtitle = "Rollback END — thiagxjzu3",
     Theme = "Default",
     ConfigurationSaving = {
-        EnabledÑL = false,
+        Enabled = false,
     },
     KeySystem = false,
 })
