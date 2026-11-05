@@ -532,7 +532,7 @@ PlayerRight:AddSlider("SpeedVal", {
     Text = "Speed",
     Default = 24,
     Min = 16,
-    Max = 80,
+    Max = 160,
     Rounding = 0,
     Callback = function(v)
         SpeedVal = v
